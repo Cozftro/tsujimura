@@ -12,7 +12,7 @@ AWS環境構築練習
 
 ## 基本設計
 - システム構成図
-  - Being Prepared
+  - ![structure_map](https://drive.google.com/file/d/16SMZzKxVa1iuI-qOHxvQecHKztkTlT8M/view)
 - 性能・拡張設計
   - うごけばヨシ
 - 信頼性設計
